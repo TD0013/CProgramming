@@ -1,10 +1,10 @@
 # CProgramming
-This Repository contains my Term Project for the Course "C Programming" for which I developed a game similar to the gamee show "Who wants to be a Millionare".
+This Repository contains my Term Project for the Course "C Programming" for which I developed a game similar to the gamee show "Who wants to be a Millionare" aka "KBC".
 
 ## Description of how to run the code and observe the output:
-The executable is called 2019B5PS0636P_P5.exe. It is a KBC game created using C.
+The executable is called CP_TermProject.exe. It is a KBC game created using C.
  When you run the exe, If will prompt you to hit enter to continue.
- It will then display the in game ReadMe, the stats and the first question with a prompt for a response.
+ It will then display the in-game ReadMe, the stats and the first question with a prompt for a response.
 As this is a coding assignment, we made sure that the questions are simple so that the evaluator can focus more on the code.
 All questions have 4 options: A,B,C and D and only one correct answer.
 All answers are case sensitive.Eg if the answer is A, a is not acceptable.
